@@ -1,2 +1,2 @@
 # 100DaysOfCode
-compilation of all i learn in the 100 days of code challenge
+compilation of all i learnt in the 100 days of code challenge
